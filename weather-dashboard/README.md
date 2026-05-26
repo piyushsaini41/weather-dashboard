@@ -1,4 +1,3 @@
-#Deployed link https://weather-dashboard-git-main-dhruv11021s-projects.vercel.app/
   
   # Weather Dashboard 🌤️
 
